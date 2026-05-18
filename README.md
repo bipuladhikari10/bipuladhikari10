@@ -6,11 +6,13 @@
 
 ## 🚀 About Me
 
-I am a final-year Electronics and Communication Engineering student at Nepal Engineering College (Pokhara University), with a strong focus on **Brain–Computer Interfaces (BCI)** and **Biomedical Signal Processing**.
-
-My current work revolves around **EEG-based motor imagery classification**, where I explore how neural signals can be decoded for human–machine interaction systems.
-
-I am passionate about combining **signal processing, machine learning, and neuroscience** to build impactful real-world applications in healthcare and assistive technology.
+I am an Electronics and Communication Engineer with a strong research focus on Brain–Computer Interfaces (BCI), EEG signal processing, and machine learning applications in neurotechnology. My work centers on decoding neural activity for motor movement classification, with the goal of enabling more intuitive and adaptive human–machine interaction systems.
+ 
+My academic and research interests lie at the intersection of biomedical engineering, neuroscience, artificial intelligence, and signal processing. I am particularly interested in developing intelligent neurotechnological systems that can contribute to rehabilitation, assistive technologies, and next-generation healthcare solutions.
+ 
+I have experience working with EEG data analysis, premovement neural signal classification, feature extraction, and machine learning-based approaches for BCI applications. Through research-driven engineering, I aim to bridge the gap between computational intelligence and real-world biomedical innovation.
+ 
+I am continuously exploring opportunities to collaborate, conduct advanced research, and contribute to impactful projects in BCI, neurotechnology, biomedical AI, and intelligent healthcare systems.
 
 ---
 
