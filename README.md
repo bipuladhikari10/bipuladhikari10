@@ -80,8 +80,8 @@ Research writing, technical documentation, system modeling
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: adhikaribipul8@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/bipuladhikari/?skipRedirect=true 
 - 🌐 Portfolio: coming soon  
 
 ---
